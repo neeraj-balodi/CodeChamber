@@ -31,6 +31,6 @@ I welcome contributions from fellow developers! Whether it's bug fixes, feature 
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to me. You can contact me via email at [your_email@example.com](mailto:neerbalodi8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/neeraj-balodi-62927a186/).
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to me. You can contact me via email at [neerbalodi8@gmail.com](mailto:neerbalodi8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/neeraj-balodi-62927a186/).
 
 Happy coding! 🚀
